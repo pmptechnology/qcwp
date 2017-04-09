@@ -1,0 +1,4 @@
+upload: wordpress/osx/VirtualBox-5.1.18-114002-OSX.dmg to s3://workshops.pmplabs.com/wordpress/osx/VirtualBox-5.1.18-114002-OSX.dmg
+upload: wordpress/images/ubuntu-16.04.2-server-amd64.iso to s3://workshops.pmplabs.com/wordpress/images/ubuntu-16.04.2-server-amd64.iso
+upload: wordpress/wordpress/base/ubuntu-wordpress-server-pmp-technology.ova to s3://workshops.pmplabs.com/wordpress/wordpress/base/ubuntu-wordpress-server-pmp-technology.ova
+upload: wordpress/windows/VirtualBox-5.1.18-114002-Win.exe to s3://workshops.pmplabs.com/wordpress/windows/VirtualBox-5.1.18-114002-Win.exe
